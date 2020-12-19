@@ -1,0 +1,20 @@
+# Comandos Github :computer:
+
+### Comandos mais usados
+
+- cd
+- dir
+- mkdir --> Criar pasta
+- del / rmdir -> deletar pasta
+- git status
+- git commit -m
+- git add *
+- openssl sha1 <nome do arquivo.extesão>
+- git init
+- ls -a --> mostrar arquivos ocultos
+- git config --global use.email "email" --> Email que vai usar na conta
+- git config --global use.name "nome" --> Nome que vai usar
+- git cofig --list
+- git clone "Copiar link no site"  --> copiar o repositório de alguém 
+- git pull origin master --> puxar meus arquivos
+- gir push origin master --> empurrar arquvios  para o git
